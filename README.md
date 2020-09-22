@@ -1,4 +1,4 @@
-<img src="banner.jpg">
+<img src="bannerblue.jpg">
 
 <!--
 **Patalayus/Patalayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
