@@ -1,6 +1,6 @@
 <img src="bannerbluelogos.jpg" href="patalayus.github.io">
 Hi. I'm Luke, a computer scientist with an avid interest in programming and mathematics.
-I enjoy a good challenge when it comes to solo or team projects and like helping others around me with the same goal in mind. I have worked on many team-based projects in the past as well as personal ones!
+I enjoy a good challenge when it comes to solo or team projects and like helping others around me with the same goal in mind.
 <!--
 **Patalayus/Patalayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
